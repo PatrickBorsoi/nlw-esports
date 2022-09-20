@@ -12,7 +12,7 @@
   </ul>
 </div>
 <div align="left">
-  <h2 >Tecnologias utilizadas na FrontEnd</h2>
+  <h2 >Tecnologias utilizadas no FrontEnd</h2>
   <ui>
     <li>React</li>
     <li>Typescript</li>
@@ -24,7 +24,7 @@
   </ul>
 </div>
 <div align="left">
-  <h2 >Tecnologias utilizadas na Mobile</h2>
+  <h2 >Tecnologias utilizadas no Mobile</h2>
   <ui>
 <li>React Native</li>
 <li>Phosphor-react</li>
